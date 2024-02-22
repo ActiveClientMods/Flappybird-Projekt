@@ -129,6 +129,12 @@ Wenn man dies im Nachhinein sieht, kommt es uns fasst schon lächerlich vor, das
 
 ## - E/A-Operationen und Dateiverarbeitung
 
+![input-screen](https://github.com/ActiveClientMods/Flappybird-Projekt/assets/152853649/477014ae-8b0c-4f22-93a9-e043919e402d)
+Unter Eingabe versteht man in unserem Projekt die Maus/Tastatur Eingaben, um den Vogel zum fliegen/sprigen zu bringen.
+
+![output-screen](https://github.com/ActiveClientMods/Flappybird-Projekt/assets/152853649/fa6f904a-7989-45ee-90c1-68f84c8c38a5)
+Unter Ausgabe versteht man in unserem Projekt die Ausgabe des Bildes (screen) als grafische Spieloberfläche. 
+
 ## - Operatoren
 
 Siehe Funktionen.
