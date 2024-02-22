@@ -133,11 +133,15 @@ Wenn man dies im Nachhinein sieht, kommt es uns fasst schon lächerlich vor, das
 
 Siehe Funktionen.
 
+
 ## - Kontrollstrukturen
+![kontrollstruktur](https://github.com/ActiveClientMods/Flappybird-Projekt/assets/152853649/13892e30-e9ad-4c86-9668-437dc86f3b2d)
 
 ## - Funktionen
+![function](https://github.com/ActiveClientMods/Flappybird-Projekt/assets/152853649/7cfa1005-ea26-4d65-9e32-2e784b40c424)
 
 ## - Stringverarbeitung
+![stringverarbeitung](https://github.com/ActiveClientMods/Flappybird-Projekt/assets/152853649/1b849614-a975-43e7-9805-e6b7f3b03239)
 
 ## - Strukturierte Datentypen
 
