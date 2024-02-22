@@ -156,3 +156,6 @@ Siehe Funktionen.
 ## - Strukturierte Datentypen
 
 ![datatypes1](https://github.com/ActiveClientMods/Projektarbeit_Flappybird/assets/152853649/54ae006e-bcd6-4cc9-950c-7c79b215d4c1)
+
+## - Gegenseitiger Support Luis-Vincent
+![image](https://github.com/ActiveClientMods/Flappybird-Projekt/assets/153116267/08284e28-ee48-43c7-97c9-0e548ff350e2)
