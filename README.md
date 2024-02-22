@@ -92,6 +92,9 @@ Die **pass_pipe**-Variable ist ein weiterer boolescher Wert, der anfangs auf Fal
 ![image](https://github.com/ActiveClientMods/Flappybird-Projekt/assets/153116267/08284e28-ee48-43c7-97c9-0e548ff350e2)
 ### - Gegenseitiger Support Philipp-Finn
 ![image](https://github.com/ActiveClientMods/Flappybird-Projekt/assets/153117375/e558db4e-1f38-4ee1-bebc-c3e801b55523)
+### - Gegenseitiger Support Robin-Niklas
+![Support-Robin-Niklas](https://github.com/ActiveClientMods/Flappybird-Projekt/assets/152853649/ad176b58-8256-48b4-862f-39074a818deb)
+![Support-Robin-Niklas](https://github.com/ActiveClientMods/Flappybird-Projekt/assets/152853649/38a22423-fda9-40b6-879c-6fba058f823d)
 
 ## Sie können existierenden Code analysieren und beurteilen. (5)
 
