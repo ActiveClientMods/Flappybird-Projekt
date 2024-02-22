@@ -31,6 +31,10 @@ Die **Update**-Methode wird verwendet, um den Zustand des Vogelobjekts für jede
 ## Sie können ein größeres Programm selbständig entwerfen, programmieren und auf Funktionsfähigkeit testen (Das Projekt im Team) (10)
 
 <!-- Anhand von commits zeigen, wie jeder im Projekt einen Beitrag geleistet hat -->
+![first-ver](https://github.com/ActiveClientMods/Flappybird-Projekt/assets/152853649/d8ca20d2-c22b-4ad2-a33f-a949f34c0b1d)
+![second-ver](https://github.com/ActiveClientMods/Flappybird-Projekt/assets/152853649/cada4594-91f3-4679-9863-edee43924010)
+![thrid-ver](https://github.com/ActiveClientMods/Flappybird-Projekt/assets/152853649/82fef6b0-d227-4aba-943b-a9cf35536047)
+
 
 ## Sie kennen verschiedene Datenstrukturen und können diese exemplarisch anwenden. (10)
 
