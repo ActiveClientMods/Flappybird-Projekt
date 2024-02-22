@@ -15,7 +15,8 @@ Alle Kriterien betreffen nur die Projektarbeit. Beweismaterial kommt aus dem Gru
 
 <!-- Eine Stelle aus ihrem Programmieren wählen auf die sie besonders stolz sind und begründen -->
 
-![Code für Syntax](https://github.com/ActiveClientMods/Projektarbeit_Flappybird/assets/152853649/69c26d7d-c2e9-494b-bff5-6b136fec5845)
+![Syntax-of-Code](https://github.com/ActiveClientMods/Flappybird-Projekt/assets/152853649/883a8ced-fd56-424c-a5de-750c4d5893b1)
+
 Dieser Ausschnitt definiert eine Klasse "**Bird**" in unter Verwendung der Pygame-Bibliothek. Diese Klasse ist eine Unterklasse von "**pygame.sprite.Sprite**", die eine einfache Basisklasse für sichtbare Spielobjekte in **Pygame** ist.
 
 Die Methode "**\_\_init\_\_**" ist der Konstruktor für die Klasse Bird. Sie nimmt zwei Parameter an, x und y, die die Anfangsposition des Vogels darstellen. Innerhalb des Konstruktors ruft die Zeile "**pygame.sprite.Sprite.\_\_init\_\_(self)**" den Konstruktor der Basisklasse Sprite auf, um sicherzustellen, dass das Bird-Objekt korrekt als Sprite initialisiert wird.
@@ -40,7 +41,7 @@ Die **Update**-Methode wird verwendet, um den Zustand des Vogelobjekts für jede
 
 <!-- Eine Stelle aus dem Projekt wählen auf die sie besonders stolz sind und begründen -->
 
-![datatypes1](https://github.com/ActiveClientMods/Projektarbeit_Flappybird/assets/152853649/54ae006e-bcd6-4cc9-950c-7c79b215d4c1)
+![datatypes1](https://github.com/ActiveClientMods/Flappybird-Projekt/assets/152853649/588e84dd-0550-46a1-9b0a-391fbab4b86b)
 
 Die erste Variable, **white**, ist ein Tupel, das die Farbe Weiß im RGB-Format darstellt. Jeder Wert in dem Tupel kann zwischen 0 und 255 liegen, wobei 0 bedeutet, dass diese Farbe keinen Beitrag leistet und 255 den maximalen Beitrag darstellt. (255, 255, 255) steht also für Weiß.
 
@@ -75,8 +76,8 @@ Die **pass_pipe**-Variable ist ein weiterer boolescher Wert, der anfangs auf Fal
 
 ### Copilot verwendet, um sich den Code erklären zu lassen
 
-![Use of Copilot1](https://github.com/ActiveClientMods/Projektarbeit_Flappybird/assets/152853649/53b9368c-94cc-4c6c-87c5-3af77a516146)
-![Use of Copilot2](https://github.com/ActiveClientMods/Projektarbeit_Flappybird/assets/152853649/793c17bf-73f4-4778-bafa-47b81384fff0)
+![use-of-copliot](https://github.com/ActiveClientMods/Flappybird-Projekt/assets/152853649/c003408d-cdb6-4c26-95fb-45a643cfab13)
+![copilot](https://github.com/ActiveClientMods/Flappybird-Projekt/assets/152853649/e2d8b1ca-870d-43eb-ba21-2cf2978f0628)
 
 ### Als Entwicklungsumgebung wurde VS Code verwendet.
 
@@ -87,6 +88,8 @@ Die **pass_pipe**-Variable ist ein weiterer boolescher Wert, der anfangs auf Fal
 ## Die Studierenden können ihre Software erläutern und begründen. (5)
 
 <!-- Jeder in der Gruppe: You have helped someone else and taught something to a fellow student (get a support message from one person) -->
+### - Gegenseitiger Support Luis-Vincent
+![image](https://github.com/ActiveClientMods/Flappybird-Projekt/assets/153116267/08284e28-ee48-43c7-97c9-0e548ff350e2)
 
 ## Sie können existierenden Code analysieren und beurteilen. (5)
 
@@ -129,7 +132,7 @@ Wenn man dies im Nachhinein sieht, kommt es uns fasst schon lächerlich vor, das
 
 ## - Datentypen
 
-![datatypes1](https://github.com/ActiveClientMods/Projektarbeit_Flappybird/assets/152853649/54ae006e-bcd6-4cc9-950c-7c79b215d4c1)
+![datatypes1](https://github.com/ActiveClientMods/Flappybird-Projekt/assets/152853649/83ffe612-dc19-45d1-a6a2-738b28b10988)
 
 ## - E/A-Operationen und Dateiverarbeitung
 
@@ -155,7 +158,4 @@ Siehe Funktionen.
 
 ## - Strukturierte Datentypen
 
-![datatypes1](https://github.com/ActiveClientMods/Projektarbeit_Flappybird/assets/152853649/54ae006e-bcd6-4cc9-950c-7c79b215d4c1)
-
-## - Gegenseitiger Support Luis-Vincent
-![image](https://github.com/ActiveClientMods/Flappybird-Projekt/assets/153116267/08284e28-ee48-43c7-97c9-0e548ff350e2)
+![datatypes1](https://github.com/ActiveClientMods/Flappybird-Projekt/assets/152853649/32f2b18b-9a9a-4056-aecb-9f5eda1987d2)
