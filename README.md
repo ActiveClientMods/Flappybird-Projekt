@@ -100,6 +100,12 @@ Die **pass_pipe**-Variable ist ein weiterer boolescher Wert, der anfangs auf Fal
 
 <!-- Pro Gruppe: You have critiqued another group project. Link to your critique here (another wiki page on your git) and link the project in the critique, use these evaluation criteria to critique the other project. Make sure they get a top grade after making the suggested changes -->
 
+Review zur Minispielesammlung - Stein/Schere/Papier: https://github.com/LuisDuechtel/Minispielsammlung/discussions/2
+
+Review zur Minispielesammlung - Hangman: https://github.com/LuisDuechtel/Minispielsammlung/discussions/3
+
+Link zum Projekt Repository: https://github.com/LuisDuechtel/Minispielsammlung
+
 ## Sie können sich selbstständig in Entwicklungsumgebungen und Technologien einarbeiten und diese zur Programmierung und Fehlerbehebung einsetzen. (10)
 
 <!-- Which technology did you learn outside of the teacher given input -->
@@ -129,7 +135,10 @@ Dann blieb nur noch die effiziente ground-scroll Animation das Problem.
 Diese haben wir aber letztendlich auch in den Griff bekommen. Zuerst haben wir die ganze Zeit die Pipes generiert und diese wurden nach links mit dem Boden gescrollt. Dabei haben wir gemerkt, dass wir deutliche Leistungseinbußen erleiden. Nach etwas Recherche und ein paar Tagen später sind wir auf die glorreiche Idee gekommen, dass man die Pipes, welche den Screen passiert haben wieder rauslöschen kann und diese somit auch nicht mehr geupdated werden müssen.
 Hier ein Screenshot des Codes:
 
+![pipe](https://github.com/ActiveClientMods/Flappybird-Projekt/assets/152853649/9ab422e0-7bb9-4199-ab5a-1d17c26e9b8e)
+
 Wenn man dies im Nachhinein sieht, kommt es uns fasst schon lächerlich vor, dass ein If-Statement mit 2 Zeilen eine derartig positive Auswirkung haben kann.
+
 
 # Kenntnisse in prozeduraler Programmierung:
 
@@ -150,7 +159,6 @@ Unter Ausgabe versteht man in unserem Projekt die Ausgabe des Bildes (screen) al
 ## - Operatoren
 
 Siehe Funktionen.
-
 
 ## - Kontrollstrukturen
 ![kontrollstruktur](https://github.com/ActiveClientMods/Flappybird-Projekt/assets/152853649/13892e30-e9ad-4c86-9668-437dc86f3b2d)
