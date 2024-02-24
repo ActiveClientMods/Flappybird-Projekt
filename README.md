@@ -81,7 +81,7 @@ Die **pass_pipe**-Variable ist ein weiterer boolescher Wert, der anfangs auf Fal
 
 ### Als Entwicklungsumgebung wurde VS Code verwendet.
 
-![use-of-vsc](https://github.com/ActiveClientMods/Projektarbeit_Flappybird/assets/152853649/2cebd952-1a82-4edc-bed9-ff51ddfd6a99)
+![use-of-vsc](https://github.com/ActiveClientMods/Flappybird-Projekt/assets/152853649/b8c0b0e7-de5c-44a7-add0-f39c03ddc8d6)
 
 # PERSONALE UND SOZIALE KOMPETENZ (20 Punkte)
 
