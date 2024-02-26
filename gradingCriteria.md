@@ -1,7 +1,4 @@
-Matrikelnummern: 
-7976979
-8531610
-9822862
+Matrikelnummern: 7976979, 8531610, 9822862
 
 # Projekt: Flappybird
 
