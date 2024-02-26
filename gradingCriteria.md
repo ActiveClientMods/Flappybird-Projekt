@@ -102,14 +102,6 @@ Die **pass_pipe**-Variable ist ein weiterer boolescher Wert, der anfangs auf Fal
 
 <!-- Pro Gruppe: You have critiqued another group project. Link to your critique here (another wiki page on your git) and link the project in the critique, use these evaluation criteria to critique the other project. Make sure they get a top grade after making the suggested changes -->
 
-Review zur Minispielesammlung - Stein/Schere/Papier: https://github.com/LuisDuechtel/Minispielsammlung/discussions/2
-
-Review zur Minispielesammlung - Hangman: https://github.com/LuisDuechtel/Minispielsammlung/discussions/3
-
-Link zum Projekt Repository: https://github.com/LuisDuechtel/Minispielsammlung
-
-## Sie können sich selbstständig in Entwicklungsumgebungen und Technologien einarbeiten und diese zur Programmierung und Fehlerbehebung einsetzen. (10)
-
 <!-- Which technology did you learn outside of the teacher given input -->
 
 Wir lernten unglaublich viel über die Pygame Library. Zuerst hat sie uns komplett erschlagen, doch nach etwas recherche und ein paar YouTube Videos haben wir mit der Zeit immer mehr verstanden.
