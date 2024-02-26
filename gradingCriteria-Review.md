@@ -47,7 +47,7 @@ Wenn die Anzahl der Versuche nicht kleiner als 11 ist (d.h. der Spieler hat 11 o
 <!-- Copilot -->
 <!-- other -->
 
-![use-of-vs-code(https://github.com/ActiveClientMods/Flappybird-Projekt/assets/152853649/25bfd19e-45a7-4de9-ae57-c691cd15b45c)
+![use-of-vs-code](https://github.com/ActiveClientMods/Flappybird-Projekt/assets/152853649/25bfd19e-45a7-4de9-ae57-c691cd15b45c)
 Neben diesem Screenshot, haben wir die Gruppe befragt. Diese meinte, dass sie ausschließlich in VS-Code gecoded haben.
 
 
